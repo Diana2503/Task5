@@ -22,7 +22,7 @@ public class Main {
 
     public static int readHeight() {
         Scanner scn = new Scanner(System.in);
-        System.out.print("Enter height of shape : ");
+        System.out.print("Enter height of shape: ");
         return scn.nextInt();
     }
 
